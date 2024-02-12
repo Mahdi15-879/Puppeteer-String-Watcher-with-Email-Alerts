@@ -5,7 +5,7 @@ Installation:
 1. Clone the repository:
 git clone [https://github.com/your-username/your-repository.git](https://github.com/Mahdi15-879/Puppeteer-String-Watcher-with-Email-Alerts.git)https://github.com/Mahdi15-879/Puppeteer-String-Watcher-with-Email-Alerts.git
 2. Install dependencies:
-cd your-repository
+cd your-repository, 
 npm install
 
 Usage:
