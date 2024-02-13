@@ -18,6 +18,9 @@ Configuration:
 - Set the EMAIL_RECIPIENTS array to specify who should receive email alerts.
 - Update the SMTP_CONFIG object with your SMTP server details for sending emails.
 
+License:
+This project is licensed under the MIT License - see the LICENSE file for details.
+
 Acknowledgements:
 - This project uses Puppeteer and Nodemailer.
 
